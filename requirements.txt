@@ -1,0 +1,5 @@
+Flask
+ibm-watsonx-ai
+python-dotenv
+langchain-ibm
+langchain
