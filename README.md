@@ -43,15 +43,6 @@ WATSONX_PROJECT_ID=your_project_id_here
 WATSONX_APIKEY=your_api_key_here
 ```
 
-You can use `.env.example` as a template:
-```bash
-cp .env.example .env
-```
-
-Then edit `.env` with your actual credentials.
-
-> **⚠️ Security Note:** Never commit the `.env` file to version control. It's included in `.gitignore` to protect your credentials.
-
 ### 5. Run the Application
 
 ```bash
