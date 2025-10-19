@@ -1,4 +1,4 @@
-# Watson AI Project
+# Web app with GenAI Project
 
 A basic Flask-based application that integrates with IBM Watson AI to provide language model capabilities. This project uses models like Llama 3.2 and Granite for text generation.
 
