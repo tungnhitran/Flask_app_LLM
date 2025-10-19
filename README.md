@@ -2,6 +2,8 @@
 
 A basic Flask-based application that integrates with IBM Watson AI to provide language model capabilities. This project uses models like Llama 3.2 and Granite for text generation.
 
+![Demo GIF](/Users/tungnhitran/Desktop/AI-ML Online courses/IBM-RAG and GenAI/1.Develop GenAI Applications/Module 3/Flask_app/Flask_app_LLM/Screen Recording 2025-10-19 at 9.47.43 pm.gif)
+
 ## Features
 
 - Integration with IBM Watson AI (watsonx)
