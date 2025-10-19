@@ -19,11 +19,6 @@ A basic Flask-based application that integrates with IBM Watson AI to provide la
 
 ### 1. Clone the Repository
 
-```bash
-git clone <your-repo-url>
-cd <project-directory>
-```
-
 ### 2. Create a Virtual Environment
 
 ```bash
@@ -31,16 +26,6 @@ python -m venv venv
 ```
 
 Activate the virtual environment:
-
-**On macOS/Linux:**
-```bash
-source venv/bin/activate
-```
-
-**On Windows:**
-```bash
-venv\Scripts\activate
-```
 
 ### 3. Install Dependencies
 
