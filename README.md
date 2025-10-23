@@ -91,7 +91,3 @@ See `requirements.txt` for a complete list.
 ## Support
 
 The LLM Models are deployed from IBM Watsonx AI
-
-## Authors
-
-(Alex) Tung Nhi TRAN
